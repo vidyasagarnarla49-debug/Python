@@ -5,3 +5,4 @@ numpy
 matplotlib
 xlsxwriter
 Workbook
+mysql.connector
